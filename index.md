@@ -7,3 +7,6 @@ var sumar2 = function(numero) {
   return numero + 2;
 }
 ```
+- [ ] Cocinar
+- [ ] Hacer Ejercicio 
+- [ ] Viajar
